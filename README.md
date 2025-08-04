@@ -26,8 +26,8 @@ Omnix AI is committed to making Africa an AI innovator, not just a consumer. We 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd omnix-ai
+git clone https://github.com/Emmanuel-kabu/OmnixWebsite.git
+cd OmnixWebsite
 ```
 
 2. Install dependencies:
@@ -85,7 +85,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-omnix-ai/
+OmnixWebsite/
 ├── src/
 │   ├── app/
 │   │   ├── globals.css
@@ -147,4 +147,4 @@ For more information about Omnix AI and our services, visit our website or conta
 
 ---
 
-Built with ❤️ for Africa's AI future 
+Built with ❤️ for Africa's AI future
